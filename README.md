@@ -27,6 +27,8 @@ So, whether you seek the wisdom of algorithms or the wonder of otherworldly craf
 + ⚔️ 3D models optimised for 3D Printing
 + 🔫 3D scaning
 
+![Codewars](https://github.r2v.ch/codewars?user=antsht&stroke=red)
+
 ## Overview
 - Full stack developer specializing in internet and intranet database-driven applications.
 - Holds a degree in Mathematics from Yaroslavl State University.
