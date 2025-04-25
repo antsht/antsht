@@ -17,15 +17,17 @@ Certified in the arcane arts of programming and bestowed with the sacred knowled
 So, whether you seek the wisdom of algorithms or the wonder of otherworldly craftsmanship, fear not, for **Anton Shtern** is here to guide you through the labyrinthine realms of adventure and innovation!
 
 #### ⭐ My skills: 
-+ 📱 C#
-+ 🍀 Asp.net
-+ 🧮 MSSQL and T-SQL
-+ 🐍 Python basics just to use its codebase
++ 📱 C
++ 📱 C++
++ 📱 C# (.Net Framework and .Net Core)
++ 🍀 Asp.net (Web.Forms :-) 
++ 🧮 MSSQL/T-SQL (Advanced), PostgreSQL (basics)
++ 🐍 Python basics just for simple scripting
 + 🖼️ HTML, CSS, a bit of JS
-+ 🐧 Linux terminal (WSL)
++ 🐧 Linux (WSL)
 + 🖨️ 3D Printing (FFF, SLA)
 + ⚔️ 3D models optimised for 3D Printing
-+ 🔫 3D scaning
++ 🔫 3D scaning and reverse engeneering
 
 ![Codewars](https://github.r2v.ch/codewars?user=antsht&stroke=red)
 
@@ -37,7 +39,7 @@ So, whether you seek the wisdom of algorithms or the wonder of otherworldly craf
 #### 💼 My experience: 
 ### Yaroslavl State University
 .Net Programmer
-June 2004 - Present (19 years 9 months)
+June 2004 - Present
 + Developed a student population accounting system: student orders, admissions committee processes, online document submission from applicants, study plan processing, student performance tracking, automated exam score processing, integration with address classificator (KLADR), and dormitory management automation.
 + Stack used: Asp.Net/C#/MS SQL/Crystal Reports
 
@@ -64,8 +66,8 @@ Specialist in Mathematics (1999 - 2004)
 
 ## Certifications
 + CS50x
-+ Basics of C programming. Tasks.
-+ Basics of C programming in Linux
++ Basics of C programming. 
++ C programming in Linux
 + SQL-EX Expert level
 
 ## Patents
@@ -75,7 +77,7 @@ Specialist in Mathematics (1999 - 2004)
 
 ## Languages
 + Russian (Native)
-+ English (Limited Working)
++ English (B2)
 
 
 <!--
