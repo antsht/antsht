@@ -32,7 +32,8 @@ So, whether you seek the wisdom of algorithms or the wonder of otherworldly craf
 + 🐧 Git
 + 🐧 Docker
 + 🖨️ 3D Printing (FFF, SLA)
-+ ⚔️ 3D models optimized for 3D Printing
++ ⚔️ Making 3D models optimized for 3D Printing
++ ⚔️ Autodesk Fusion 360
 + 🔫 3D scanning and reverse engineering
 
 ![Codewars](https://github.r2v.ch/codewars?user=antsht&stroke=red)
