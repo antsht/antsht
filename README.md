@@ -19,15 +19,21 @@ So, whether you seek the wisdom of algorithms or the wonder of otherworldly craf
 #### ⭐ My skills: 
 + 📱 C
 + 📱 C++
++ 📱 Make, CMake
 + 📱 C# (.Net Framework and .Net Core)
-+ 🍀 Asp.net (Web.Forms :-) 
-+ 🧮 MSSQL/T-SQL (Advanced), PostgreSQL (basics)
++ 🍀 Asp.Net Core, MVC, Web API, Minimal API, Web.Forms 
++ 🍀 REST API
++ 🍀 EF Core
++ 🧮 MSSQL/T-SQL (Advanced)
++ 🧮 PostgreSQL
 + 🐍 Python basics just for simple scripting
 + 🖼️ HTML, CSS, a bit of JS
-+ 🐧 Linux (WSL)
++ 🐧 Linux (WSL), Bash
++ 🐧 Git
++ 🐧 Docker
 + 🖨️ 3D Printing (FFF, SLA)
-+ ⚔️ 3D models optimised for 3D Printing
-+ 🔫 3D scaning and reverse engeneering
++ ⚔️ 3D models optimized for 3D Printing
++ 🔫 3D scanning and reverse engineering
 
 ![Codewars](https://github.r2v.ch/codewars?user=antsht&stroke=red)
 
